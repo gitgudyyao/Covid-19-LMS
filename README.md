@@ -26,8 +26,6 @@ username / email : admin
 Password : 123
 
 User/Admin Login Page & Dashboard of the LMS
-![main](https://user-images.githubusercontent.com/52448621/123917885-dc1b0b80-d9b5-11eb-9b82-a13fa42ae3f2.PNG)
-
 
 ![login](https://user-images.githubusercontent.com/52448621/123917883-db827500-d9b5-11eb-84af-04720be9b6fc.PNG)
 
